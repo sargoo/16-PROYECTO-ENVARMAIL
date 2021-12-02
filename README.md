@@ -2,7 +2,7 @@
 ## In this proyect, We put into practice how to validate a form in Java Script.
 ## I hope you like it and see you soon at next project
 
-***Do you want to try it?***  https://epic-pare-fb7ecf.netlify.app/
+***Do you want to try it?***  https://keen-neumann-43edd5.netlify.app
 
 🔠 _HTML:_ Juan Pablo De la torre Valdez.
 
